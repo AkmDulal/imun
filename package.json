@@ -1,0 +1,23 @@
+{
+  "name": "imun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "cheerio": "^1.0.0-rc.12",
+    "ora": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+    
+  }
+}
